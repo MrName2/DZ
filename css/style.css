@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: Roboto, sans-serif
+}
+
+img {
+    max-width: 100%;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+.logo__img {
+    width: 100px;
+    margin-bottom: 235px;
+}
+
+.title-block {
+    font-family: 'SchoolBook';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 110px;
+    color: #080606;
+    text-transform: uppercase;
+}
+
+.button
